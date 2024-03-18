@@ -24,10 +24,12 @@ npm install
 
 npm run build
 
-php artisan migrate
 php artisan key:generate
 ```
-optional (oder eigenen Webserver entsprechend konfigurieren):
+Dann musst du in der .env-Datei noch die Serverumgebung konfigurieren. Hierbei sind insbesondere die Einstellungen für das Environment und das Debugging wichtig.
+
+## Start des Servers
+(oder eigenen Webserver entsprechend konfigurieren):
 ```php
 php artisan serve
 ```
