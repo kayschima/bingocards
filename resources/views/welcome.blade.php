@@ -33,7 +33,7 @@
             <a href="/" class="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded">Neue Bingo-Karte
                 erstellen</a>
 
-            <div class="text-center text-xs mt-4">© 2024 kayschima</div>
+            <div class="text-center text-xs mt-4">© 2024 kayschima (Kay Markschies)</div>
         </div>
     </div>
 </div>
