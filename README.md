@@ -3,7 +3,7 @@
 Mit diesem kleinen Mini-Projekt könnt ihr euch auf die Schnelle ein paar Bingo-Karten generieren lassen.
 
 ## Demo
-Eine Demo der Anwendung findet ihr unter [https://bingocards.4motherearth.de](https://bingocards.4motherearth.de)
+Eine Demo der Anwendung findet ihr unter [https://bingocards.kayschima.de](https://bingocards.kayschima.de)
 
 ## Voraussetzungen
 Dies ist eine Laravel 11 - Webanwendung. Ihr benötigt also folgende technische Komponenten:
